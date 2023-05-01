@@ -1,3 +1,3 @@
 void main() {
-  print('File 3');
+  print('3');
 }
